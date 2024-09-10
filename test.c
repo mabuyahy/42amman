@@ -1,3 +1,4 @@
-int	main(v
-	}
+int	main(v) {
+	enta kalb
 }
+	
